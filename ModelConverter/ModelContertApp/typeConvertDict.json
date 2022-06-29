@@ -16,5 +16,9 @@
   "Xbim.Ifc2x3.SharedBldgElements.IfcStair": "Stair",
   "Xbim.Ifc2x3.SharedBldgElements.IfcStairFlight": "StairFlight",
   "Xbim.Ifc2x3.SharedBldgElements.IfcWall": "Wall",
-  "Xbim.Ifc2x3.ProductExtension.IfcCovering": "Covering"
+  "Xbim.Ifc2x3.ProductExtension.IfcCovering": "Covering",
+  "Xbim.Ifc2x3.SharedBldgServiceElements.IfcFlowFitting": "FlowFitting",
+  "Xbim.Ifc2x3.SharedBldgServiceElements.IfcFlowSegment": "FlowSegment",
+  "Xbim.Ifc2x3.SharedBldgServiceElements.IfcDistributionPort": "DistributionElement",
+  "Xbim.Ifc2x3.ProductExtension.IfcGrid": "Root"
 }

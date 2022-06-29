@@ -311,6 +311,9 @@ namespace AdminApp
 
         private async void buttonExportModel_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("For exporting to other types such as GBXML. Not implemented");
+            return;
+
             if (this.dataGridViewUserModels.SelectedRows.Count != 1)
             {
                 return;
